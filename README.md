@@ -1,6 +1,7 @@
 
  Class Diagram!
-[class_diagram_from_erd](https://github.com/user-attachments/assets/1dd6a29c-bc4d-46ad-82e9-93d8d43c6600)
+![Class Diagram](https://github.com/user-attachments/assets/d22d33b7-3673-44bf-937a-3915a5ed00e2)
+
  Penjelasan Class Diagram!
 1.	Admin
 o	Bertanggung jawab untuk mengelola pengguna, khususnya guru.
