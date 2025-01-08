@@ -247,7 +247,7 @@ if(isset($_POST['bhhapus'])) {
 if (isset($_POST['bsimpaan'])) {
 
     //persiapan simpan data baru
-    $simpaan = mysqli_query($conn, "INSERT INTO class (teacher_id, nama, class_list, schedule_id, modul,id)
+    $simpaan = mysqli_query($conn, "INSERT INTO class (teacher_id, nama, class_list, schedule_id, modul_id)
                                     VALUES ('$_POST[tteacher]',
                                             '$_POST[tnama]',
                                             '$_POST[tclasslist]',
